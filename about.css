@@ -1,4 +1,11 @@
-
+#myMenu{
+  display: none;
+ }
+ .searchInput{
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+ }
 .navTop {
 
     display: flex;
